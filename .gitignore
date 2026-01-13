@@ -1,0 +1,74 @@
+# PowerShell artifacts
+*.ps1xml
+*.psd1.bak
+
+# Output files from the script
+*.csv
+*.json
+*.log
+EntraAdminSyncReport-*
+EntraAdminAudit_Error_*
+
+# Credentials and secrets
+*.cred
+*.credential
+*.pfx
+*.p12
+
+# IDE and Editor files
+.vscode/
+.vs/
+*.code-workspace
+.idea/
+*.swp
+*.swo
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*.bak
+
+# Node modules (if using any JS tooling)
+node_modules/
+
+# Python (if using any Python tools)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+venv/
+env/
+
+# Build outputs
+build/
+dist/
+*.exe
+
+# Package management
+packages/
+.nuget/
+
+# Test results
+TestResults/
+*.trx
+
+# Coverage reports
+coverage/
+*.coverage
+
+# Documentation build
+docs/_build/
+site/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
