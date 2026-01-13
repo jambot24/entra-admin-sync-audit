@@ -35,7 +35,7 @@
     Last Modified: 2026-01-13
 
 .LINK
-    https://github.com/yourusername/entra-admin-sync-audit
+    https://github.com/jambot24/entra-admin-sync-audit
 #>
 
 [CmdletBinding()]

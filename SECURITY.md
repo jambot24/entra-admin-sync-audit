@@ -20,7 +20,7 @@ If you discover a security vulnerability in this project, please report it respo
 Instead, please report security issues via one of these methods:
 
 1. **Email**: Send details to the repository maintainer (check GitHub profile for contact)
-2. **GitHub Security Advisories**: Use the [GitHub Security Advisory](https://github.com/yourusername/entra-admin-sync-audit/security/advisories/new) feature (recommended)
+2. **GitHub Security Advisories**: Use the [GitHub Security Advisory](https://github.com/jambot24/entra-admin-sync-audit/security/advisories/new) feature (recommended)
 
 ### What to Include
 
@@ -192,7 +192,7 @@ If you have security questions or concerns that are not vulnerabilities, please:
 
 1. Check this SECURITY.md document
 2. Review the [README](README.md) documentation
-3. Search [existing issues](https://github.com/yourusername/entra-admin-sync-audit/issues)
+3. Search [existing issues](https://github.com/jambot24/entra-admin-sync-audit/issues)
 4. Open a discussion or issue (for non-sensitive topics)
 
 ## Acknowledgments

@@ -49,12 +49,12 @@ The following delegated permissions are required:
 
 1. Download the script:
    ```powershell
-   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/yourusername/entra-admin-sync-audit/main/Get-EntraAdminSyncAudit.ps1" -OutFile "Get-EntraAdminSyncAudit.ps1"
+   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/jambot24/entra-admin-sync-audit/main/Get-EntraAdminSyncAudit.ps1" -OutFile "Get-EntraAdminSyncAudit.ps1"
    ```
 
 2. Or clone the repository:
    ```powershell
-   git clone https://github.com/yourusername/entra-admin-sync-audit.git
+   git clone https://github.com/jambot24/entra-admin-sync-audit.git
    cd entra-admin-sync-audit
    ```
 
@@ -287,8 +287,8 @@ Created by the PowerShell community
 For issues, questions, or suggestions:
 
 1. Check the [troubleshooting section](#troubleshooting)
-2. Search [existing issues](https://github.com/yourusername/entra-admin-sync-audit/issues)
-3. [Open a new issue](https://github.com/yourusername/entra-admin-sync-audit/issues/new) if needed
+2. Search [existing issues](https://github.com/jambot24/entra-admin-sync-audit/issues)
+3. [Open a new issue](https://github.com/jambot24/entra-admin-sync-audit/issues/new) if needed
 
 ## Changelog
 

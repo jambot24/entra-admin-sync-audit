@@ -445,4 +445,4 @@ Connect-MgGraph -TenantId $tenantId `
 
 ---
 
-For more examples and community contributions, visit the [GitHub repository](https://github.com/yourusername/entra-admin-sync-audit).
+For more examples and community contributions, visit the [GitHub repository](https://github.com/jambot24/entra-admin-sync-audit).
